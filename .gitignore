@@ -1,0 +1,5 @@
+node_modules/
+.eslintcache
+test/common.js
+test/fixtures/
+test/test-*.js
