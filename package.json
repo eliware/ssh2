@@ -47,11 +47,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/mscdex/ssh2/raw/master/LICENSE"
+      "url": "https://github.com/eliware/ssh2/raw/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/ssh2.git"
+    "url": "git+https://github.com/eliware/ssh2.git"
   }
 }
